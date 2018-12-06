@@ -1,0 +1,9 @@
+---
+- hosts: client
+  remote_user: root
+  connection: ssh
+  tasks:
+  - name: Ensure HTTPD is the latest and installed
+    yum: name=httpd state=latest
+  - name: Ensure HTTPD is enabled
+    service: name=httpd enabled=yes state=started
