@@ -36,4 +36,5 @@ Please login to [Whatsapp](https://web.whatsapp.com).
 
 link to another readme in same repo is [here](example.md)
 
+link to another readme in same repo is [here](project1/example.md)
 
