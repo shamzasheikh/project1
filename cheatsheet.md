@@ -32,4 +32,4 @@ kinit -R
 
 ###Now it stime to create a **link**
 
-Please login to [Whatsapp] (www.web.whatsap.com).
+Please login to [Whatsapp](www.web.whatsap.com).
