@@ -71,10 +71,10 @@ list time
 
 **1. What is default block size of HDP 2.6?**
 
-    - [ ] 128 MB
-    - [ ] 64 MB
-    - [x] 256 MB
-    - [x] Finish my changes
+- [ ] 128 MB
+- [ ] 64 MB
+- [x] 256 MB
+- [x] Finish my changes
 
 
 
