@@ -36,5 +36,39 @@ Please login to [Whatsapp](https://web.whatsapp.com).
 
 link to another readme in same repo is [here](example.md)
 
-link to another readme in same repo is [here](project1/example.md)
+link to another readme in same repo is [here](project1/example.md)--this wont work as absolute path is not supported
+now emoji time :shipit:
+
+list time 
+- item1
+- item2
+
+* item3
+* item 4
+
+1. Hadoop
+2. Linux
+3. Cloud
+
+
+1 Hadoop
+ - HDFS
+ - YARN
+ - MapReduce
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
