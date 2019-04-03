@@ -51,10 +51,30 @@ list time
 3. Cloud
 
 
-1 Hadoop
- - HDFS
- - YARN
- - MapReduce
+1. Hadoop
+    - HDFS
+      - NN
+      - DN
+    - YARN
+      - NM
+      - RM
+    - MapReduce
+    
+ 2. Cloud
+    - GCP
+    - AWS
+    - Azure
+    
+    
+    
+#lets play a **game**
+
+**1. What is default block size of HDP 2.6?**
+
+    - [ ] 128 MB
+    - [ ] 64 MB
+    - [x] 256 MB
+    - [x] Finish my changes
 
 
 
