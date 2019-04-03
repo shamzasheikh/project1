@@ -30,6 +30,9 @@ hdfs dfs -counnt -v -q -h /path/to/hdfs
 kinit -R
 ```
 
-###Now it stime to create a **link**
+### Now it stime to create a **link**
 
 Please login to [Whatsapp](https://web.whatsapp.com).
+
+
+
