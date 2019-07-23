@@ -34,7 +34,7 @@ kinit -R
 
 Please login to [Whatsapp](https://web.whatsapp.com).
 
-link to another readme in same repo is [here](example.md)
+link to another readme in same repo is [here](web_server_project_play.yml)
 
 link to another readme in same repo is [here](project1/example.md)--this wont work as absolute path is not supported
 now emoji time :shipit:
