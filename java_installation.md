@@ -12,7 +12,7 @@ For JRE:
 For JDK:
 ```sudo yum install java-1.8.0-openjdk-devel```
 
-3. Check the installed version<br\>
+3. Check the installed version
 
 ```java -version```
 
